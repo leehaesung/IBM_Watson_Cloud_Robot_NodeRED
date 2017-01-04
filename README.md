@@ -1,10 +1,10 @@
 # IBM_Watson_Cloud_Robot_NodeRED
 
-Motivation
+## Motivation
 
 I work as a robotics teacher in Sydney. I want to introduce my IBM Watson Cloud Robot to my students in my RobotClass next month. So, I'm so excited.
 
-Introduction
+## Introduction
 
 The IBM Watson Cloud Robot can recognize a human face, voice, and text like a human. The robot clearly recognized the celebrity (Elon Musk) and who he was. Also, it recognized my voice & any text. (YouTube)
 
